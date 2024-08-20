@@ -86,3 +86,6 @@ Scope: Web application security testing covers a broader range of assessments, i
 Objective: The primary goal of security testing is to identify weaknesses, whereas pentesting aims to validate vulnerabilities and assess the organization's ability to detect and respond to attacks.
 Methodology: Security testing includes both manual and automated techniques, while pentesting is predominantly a manual process, involving the use of various tools and techniques for exploitation.
 Exploitation: Security testing does not involve exploitation of vulnerabilities, while pentesting does, albeit in a controlled and authorized manner.
+
+![image](https://github.com/user-attachments/assets/54f3b090-f8ba-456c-b5bf-f210034c6fd2)
+
