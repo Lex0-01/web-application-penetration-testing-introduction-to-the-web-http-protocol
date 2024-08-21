@@ -89,3 +89,10 @@ Exploitation: Security testing does not involve exploitation of vulnerabilities,
 
 ![image](https://github.com/user-attachments/assets/54f3b090-f8ba-456c-b5bf-f210034c6fd2)
 
+
+
+1. NVD (National Vulnerability Database)
+2. Exploit-DB
+
+
+
